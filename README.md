@@ -8,3 +8,6 @@ If you have a 3D model you want to upload:
 5. Open pull request
 
 The admin will review and approve/reject the changes.
+
+#Special Thanks
+https://3dwarehouse.sketchup.com/by/my
